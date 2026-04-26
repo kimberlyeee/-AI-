@@ -1,0 +1,12 @@
+{
+  "name": "MedyMate - 慢病用药小管家",
+  "description": "专为职场人士设计的智能慢性病用药管理工具，集成库存预测、复诊提醒及隐私隐身模式。",
+  "requestFramePermissions": [
+    "notifications"
+  ],
+  "majorCapabilities": [
+    "Medication Tracking",
+    "Stock Prediction",
+    "Health Analytics"
+  ]
+}
